@@ -13,8 +13,8 @@
       "complete": true
     },
     {
-      "title": "create new website",
-      "details": "lorem ipsum words",
+      "title": "create new Website-Vue",
+      "details": "Based on vue.js",
       "complete": false,
       "id": 3
     }
